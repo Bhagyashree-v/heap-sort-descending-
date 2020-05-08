@@ -1,0 +1,16 @@
+enter number of elements you want or size of array:
+5
+please enter number:
+15
+please enter number:
+25
+please enter number:
+13
+please enter number:
+5
+please enter number:
+8
+sorted array is:
+------------------------------------------------------------------
+25 15 13 8 5
+------------------------------------------------------------------
