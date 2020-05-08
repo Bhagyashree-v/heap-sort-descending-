@@ -22,7 +22,7 @@ INSTRUCTIONS:
  CHALLENGES FACED:
  ->i.Rearranging the elements into descending order.
  ->ii.Build heap into rearranging order.
- ->iii.Solving problem iby using arithmetic operateros.
+ ->iii.Solving problem by using arithmetic operateros.
  ->iv.By calling maximum heapify on the reduced heap
  LEARNT FROM THIS ASSAIGNMENT:
     1.using command line arguments in java.
